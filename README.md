@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-[<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/29822151/89098787-e40bad80-d3ea-11ea-8020-78e9cd23957c.png" />][webdevplaylist]
+<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/29822151/89098787-e40bad80-d3ea-11ea-8020-78e9cd23957c.png" />
 
 <br />
 <br />
