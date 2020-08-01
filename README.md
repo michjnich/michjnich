@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     * Domain Driven Design
     * Event-based Architecture
     * RabbitMQ 
-- 👯 I’m looking to 
+- 👯 I’m looking to build my own brand (eventually)
 - ⚡ In my spare time, I ski, play golf, train, cook, paint, write, and read 
 
 ### Connect with me:
