@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/29822151/89098991-811b1600-d3ec-11ea-887d-81f729f0d44d.png" />
 <img align="left" alt="Django" width="52px" src="https://user-images.githubusercontent.com/29822151/89098993-81b3ac80-d3ec-11ea-992e-1f676208fd86.png" />
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/29822151/89098787-e40bad80-d3ea-11ea-8020-78e9cd23957c.png" />
+<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/29822151/89100014-f211fc00-d3f3-11ea-8ac7-a58a49f5cda9.png" />
+<img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/29822151/89099561-87ab8c80-d3f0-11ea-851b-ed2407ee50b7.png" />
+<img align="left" alt="Gitlab" width="26px" src="https://user-images.githubusercontent.com/29822151/89099558-80847e80-d3f0-11ea-8644-349fedd8dcff.png" />
 
 <br />
 <br />
