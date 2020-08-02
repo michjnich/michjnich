@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Mike
-
-## I'm a Husband, Father to 2 boys, and Developer
+### Michael J. Nicholson (Mike, He/Him)
+- I'm a Husband, Father to 2 boys, and Developer
 - 🔭 I’m currently working on migrating a legacy monolith to a Python/Django-based stack
 - 🌱 I’m currently learning as much as possible, but specifically:
     * Python
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 - ⚡ In my spare time, I ski, play golf, train, cook, paint, write, and read 
 
 ### Connect with me:
-
 [<img align="left" alt="michjnich | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="michjnich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="michjnich | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -35,7 +33,6 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/29822151/89098991-811b1600-d3ec-11ea-887d-81f729f0d44d.png" />
 <img align="left" alt="Django" width="52px" src="https://user-images.githubusercontent.com/29822151/89098993-81b3ac80-d3ec-11ea-992e-1f676208fd86.png" />
