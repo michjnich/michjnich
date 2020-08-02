@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Michael J. Nicholson (Mike, He/Him)
-- I'm a Husband, Father to 2 boys, and Developer
+- 😄 I'm a Husband, Father to 2 boys, and Developer
 - 🔭 I’m currently working on migrating a legacy monolith to a Python/Django-based stack
 - 🌱 I’m currently learning as much as possible, but specifically:
     * Python
