@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning as much as possible, but specifically:
     * Python
     * Django
-    * Flutter
     * Domain Driven Design
     * Event-based Architecture
+    * Flutter
     * RabbitMQ 
 - 👯 I’m looking to build my own brand (eventually)
 - ⚡ In my spare time, I ski, play golf, train, cook, paint, write, and read 
