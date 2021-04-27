@@ -51,3 +51,5 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/michjnich
 [linkedin]: https://linkedin.com/in/michjnich
 [500px]: https://500px.com/p/michjnich
+
+[![Now playing](https://spotify-github-profile.vercel.app/api/view?uid=urbanespaceman&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
