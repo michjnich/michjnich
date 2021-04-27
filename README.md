@@ -45,11 +45,24 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img align="left" title="mjnich's Github Stats" alt="michjnich's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michjnich&show_icons=true&hide_border=true" />
+
 
 [twitter]: https://twitter.com/michjnich
 [instagram]: https://instagram.com/michjnich
 [linkedin]: https://linkedin.com/in/michjnich
 [500px]: https://500px.com/p/michjnich
 
+<table>
+<tr>
+<td>
+
 [![Now playing](https://spotify-github-profile.vercel.app/api/view?uid=urbanespaceman&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+</td>
+<td>
+
+<img align="left" title="mjnich's Github Stats" alt="michjnich's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michjnich&show_icons=true&hide_border=true" />
+
+</td>
+</tr>
+</table>
