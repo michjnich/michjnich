@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </td>
 <td>
 
-<img align="left" title="mjnich's Github Stats" alt="michjnich's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michjnich&show_icons=true&hide_border=true" />
+<img align="left" title="mjnich's Github Stats" alt="michjnich's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michjnich&show_icons=true&hide_border=true&theme=dark" />
 
 </td>
 </tr>
